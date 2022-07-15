@@ -6,3 +6,6 @@ git add txt
 add.
 git push
 git commands
+git checkout
+git branch
+git  checkout branch
