@@ -1,0 +1,6 @@
+github gitstatus ls cd 
+mkdir
+git add
+git commit
+git add txt
+add.
